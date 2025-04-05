@@ -1,29 +1,5 @@
 [
     {
-        "比赛名称": "Auvergn'Hack",
-        "比赛时间": "2025-04-05 20:45:00 - 2025-04-06 03:00:00 UTC+8",
-        "添加日历": "https://ctftime.org/event/2752.ics",
-        "比赛形式": "Jeopardy",
-        "比赛链接": "https://ctf.zitf.fr/",
-        "比赛标志": "https://ctftime.org/media/events/gorilla_auvergnhack3.jpg",
-        "比赛权重": "0.00",
-        "赛事主办": "ZiTF (https://ctftime.org/team/376047)",
-        "比赛ID": "1300",
-        "比赛状态": "oncoming"
-    },
-    {
-        "比赛名称": "Ulisse CTF 2025",
-        "比赛时间": "2025-04-06 01:00:00 - 2025-04-07 01:00:00 UTC+8",
-        "添加日历": "https://ctftime.org/event/2735.ics",
-        "比赛形式": "Jeopardy",
-        "比赛链接": "https://2025.ulis.se/",
-        "比赛标志": "https://ctftime.org/media/events/logo_640x640.jpg",
-        "比赛权重": "0.00",
-        "赛事主办": "Ulisse (https://ctftime.org/team/71738)",
-        "比赛ID": "1263",
-        "比赛状态": "oncoming"
-    },
-    {
         "比赛名称": "Dreamhack Invitational 2025",
         "比赛时间": "2025-04-08 08:00:00 - 2025-04-09 05:00:00 UTC+8",
         "添加日历": "https://ctftime.org/event/2628.ics",
@@ -804,6 +780,30 @@
         "比赛状态": "nowrunning"
     },
     {
+        "比赛名称": "Auvergn'Hack",
+        "比赛时间": "2025-04-05 20:45:00 - 2025-04-06 03:00:00 UTC+8",
+        "添加日历": "https://ctftime.org/event/2752.ics",
+        "比赛形式": "Jeopardy",
+        "比赛链接": "https://ctf.zitf.fr/",
+        "比赛标志": "https://ctftime.org/media/events/gorilla_auvergnhack3.jpg",
+        "比赛权重": "0",
+        "赛事主办": "ZiTF (https://ctftime.org/team/376047)",
+        "比赛ID": "1300",
+        "比赛状态": "nowrunning"
+    },
+    {
+        "比赛名称": "Ulisse CTF 2025",
+        "比赛时间": "2025-04-06 01:00:00 - 2025-04-07 01:00:00 UTC+8",
+        "添加日历": "https://ctftime.org/event/2735.ics",
+        "比赛形式": "Jeopardy",
+        "比赛链接": "https://2025.ulis.se/",
+        "比赛标志": "https://ctftime.org/media/events/logo_640x640.jpg",
+        "比赛权重": "0",
+        "赛事主办": "Ulisse (https://ctftime.org/team/71738)",
+        "比赛ID": "1263",
+        "比赛状态": "nowrunning"
+    },
+    {
         "比赛名称": "Moscow CTF School 2025",
         "比赛时间": "2025-04-05 18:00:00 - 2025-04-06 02:00:00 UTC+8",
         "添加日历": "https://ctftime.org/event/2712.ics",
@@ -813,7 +813,7 @@
         "比赛权重": "0.00",
         "赛事主办": "Bushwhackers (https://ctftime.org/team/586)",
         "比赛ID": "168",
-        "比赛状态": "nowrunning"
+        "比赛状态": "past"
     },
     {
         "比赛名称": "Capture Point 5353 3.0",
@@ -846,7 +846,7 @@
         "比赛形式": "Jeopardy",
         "比赛链接": "https://codevincictf.itis.pr.it/",
         "比赛标志": "https://ctftime.org/media/events/logo_CodeVinci.jpg",
-        "比赛权重": "0",
+        "比赛权重": "18.57",
         "赛事主办": "CodeVincii (https://ctftime.org/team/367123)",
         "比赛ID": "1225",
         "比赛状态": "past"
@@ -2001,18 +2001,6 @@
         "比赛权重": "0.00",
         "赛事主办": "CakeisTheFake (https://ctftime.org/team/276544)",
         "比赛ID": "1115",
-        "比赛状态": "past"
-    },
-    {
-        "比赛名称": "HTB University CTF 2024: Binary Badlands",
-        "比赛时间": "2024-12-13 21:00:00 - 2024-12-16 05:00:00 UTC+8",
-        "添加日历": "https://ctftime.org/event/2539.ics",
-        "比赛形式": "Jeopardy",
-        "比赛链接": "https://ctf.hackthebox.com/event/details/university-ctf-2024-binary-badlands-1822",
-        "比赛标志": "https://ctftime.org/media/events/htbctf-logo_1.png",
-        "比赛权重": "0",
-        "赛事主办": "Hack The Box (https://ctftime.org/team/136056)",
-        "比赛ID": "554",
         "比赛状态": "past"
     }
 ]

@@ -302,24 +302,6 @@ hide:
                 **其他说明** : 商丘师范学院第四届网络安全及信息对抗大赛（公开赛道）是一个由商丘师范学院主办的线上个人赛。报名开始时间为2025年04月01日 00:00，报名结束时间为2025年04月07日 09:59。比赛时间为2025年04月07日 10:00至2025年04月13日 17:00。更多信息请访问比赛官网www.qsnctf.com，或加入QQ群1021827215进行咨询。比赛设有证书和周边奖励。  
                 
         === "国外赛事"
-            ??? Quote "[Auvergn'Hack](https://ctf.zitf.fr/)"  
-                [![](https://ctftime.org/media/events/gorilla_auvergnhack3.jpg){ width="200" align=left }](https://ctf.zitf.fr/)  
-                **比赛名称** : [Auvergn'Hack](https://ctf.zitf.fr/)  
-                **比赛形式** : Jeopardy  
-                **比赛时间** : 2025-04-05 20:45:00 - 2025-04-06 03:00:00 UTC+8  
-                **比赛权重** : 0.00  
-                **赛事主办** : ZiTF (https://ctftime.org/team/376047)  
-                **添加日历** : https://ctftime.org/event/2752.ics  
-                
-            ??? Quote "[Ulisse CTF 2025](https://2025.ulis.se/)"  
-                [![](https://ctftime.org/media/events/logo_640x640.jpg){ width="200" align=left }](https://2025.ulis.se/)  
-                **比赛名称** : [Ulisse CTF 2025](https://2025.ulis.se/)  
-                **比赛形式** : Jeopardy  
-                **比赛时间** : 2025-04-06 01:00:00 - 2025-04-07 01:00:00 UTC+8  
-                **比赛权重** : 0.00  
-                **赛事主办** : Ulisse (https://ctftime.org/team/71738)  
-                **添加日历** : https://ctftime.org/event/2735.ics  
-                
             ??? Quote "[Dreamhack Invitational 2025](https://dreamhack.io/)"  
                 [![](https://ctftime.org/media/events/e66fed5653581908ac8e93f82ad73cae.jpg){ width="200" align=left }](https://dreamhack.io/)  
                 **比赛名称** : [Dreamhack Invitational 2025](https://dreamhack.io/)  
@@ -929,14 +911,23 @@ hide:
                 **赛事主办** : IITBreachers (https://ctftime.org/team/165802)  
                 **添加日历** : https://ctftime.org/event/2671.ics  
                 
-            ??? Quote "[Moscow CTF School 2025](http://ctf.cs.msu.ru/)"  
-                [![](https://ctftime.org){ width="200" align=left }](http://ctf.cs.msu.ru/)  
-                **比赛名称** : [Moscow CTF School 2025](http://ctf.cs.msu.ru/)  
+            ??? Quote "[Auvergn'Hack](https://ctf.zitf.fr/)"  
+                [![](https://ctftime.org/media/events/gorilla_auvergnhack3.jpg){ width="200" align=left }](https://ctf.zitf.fr/)  
+                **比赛名称** : [Auvergn'Hack](https://ctf.zitf.fr/)  
                 **比赛形式** : Jeopardy  
-                **比赛时间** : 2025-04-05 18:00:00 - 2025-04-06 02:00:00 UTC+8  
-                **比赛权重** : 0.00  
-                **赛事主办** : Bushwhackers (https://ctftime.org/team/586)  
-                **添加日历** : https://ctftime.org/event/2712.ics  
+                **比赛时间** : 2025-04-05 20:45:00 - 2025-04-06 03:00:00 UTC+8  
+                **比赛权重** : 0  
+                **赛事主办** : ZiTF (https://ctftime.org/team/376047)  
+                **添加日历** : https://ctftime.org/event/2752.ics  
+                
+            ??? Quote "[Ulisse CTF 2025](https://2025.ulis.se/)"  
+                [![](https://ctftime.org/media/events/logo_640x640.jpg){ width="200" align=left }](https://2025.ulis.se/)  
+                **比赛名称** : [Ulisse CTF 2025](https://2025.ulis.se/)  
+                **比赛形式** : Jeopardy  
+                **比赛时间** : 2025-04-06 01:00:00 - 2025-04-07 01:00:00 UTC+8  
+                **比赛权重** : 0  
+                **赛事主办** : Ulisse (https://ctftime.org/team/71738)  
+                **添加日历** : https://ctftime.org/event/2735.ics  
                 
     === "*已经结束*"
         === "国内赛事"
@@ -962,6 +953,15 @@ hide:
                 **其他说明** : VNCTF 2025由V&N Team主办，个人赛，可报名，即将开始，中途可加入。报名开始时间为2025年01月01日 00:00，比赛时间为2025年02月08日 10:00至2025年02月09日 10:00。更多信息请加QQ群717513199。  
                 
         === "国外赛事"
+            ??? Quote "[Moscow CTF School 2025](http://ctf.cs.msu.ru/)"  
+                [![](https://ctftime.org){ width="200" align=left }](http://ctf.cs.msu.ru/)  
+                **比赛名称** : [Moscow CTF School 2025](http://ctf.cs.msu.ru/)  
+                **比赛形式** : Jeopardy  
+                **比赛时间** : 2025-04-05 18:00:00 - 2025-04-06 02:00:00 UTC+8  
+                **比赛权重** : 0.00  
+                **赛事主办** : Bushwhackers (https://ctftime.org/team/586)  
+                **添加日历** : https://ctftime.org/event/2712.ics  
+                
             ??? Quote "[Capture Point 5353 3.0](https://iiitv.capturepoint5353.tech/)"  
                 [![](https://ctftime.org/media/events/Untitled_design_2.png){ width="200" align=left }](https://iiitv.capturepoint5353.tech/)  
                 **比赛名称** : [Capture Point 5353 3.0](https://iiitv.capturepoint5353.tech/)  
@@ -985,7 +985,7 @@ hide:
                 **比赛名称** : [CodeVinci Beginner CTF 2025](https://codevincictf.itis.pr.it/)  
                 **比赛形式** : Jeopardy  
                 **比赛时间** : 2025-03-29 21:00:00 - 2025-03-29 21:00:00 UTC+8  
-                **比赛权重** : 0  
+                **比赛权重** : 18.57  
                 **赛事主办** : CodeVincii (https://ctftime.org/team/367123)  
                 **添加日历** : https://ctftime.org/event/2738.ics  
                 
@@ -1852,15 +1852,6 @@ hide:
                 **比赛权重** : 0.00  
                 **赛事主办** : CakeisTheFake (https://ctftime.org/team/276544)  
                 **添加日历** : https://ctftime.org/event/2581.ics  
-                
-            ??? Quote "[HTB University CTF 2024: Binary Badlands](https://ctf.hackthebox.com/event/details/university-ctf-2024-binary-badlands-1822)"  
-                [![](https://ctftime.org/media/events/htbctf-logo_1.png){ width="200" align=left }](https://ctf.hackthebox.com/event/details/university-ctf-2024-binary-badlands-1822)  
-                **比赛名称** : [HTB University CTF 2024: Binary Badlands](https://ctf.hackthebox.com/event/details/university-ctf-2024-binary-badlands-1822)  
-                **比赛形式** : Jeopardy  
-                **比赛时间** : 2024-12-13 21:00:00 - 2024-12-16 05:00:00 UTC+8  
-                **比赛权重** : 0  
-                **赛事主办** : Hack The Box (https://ctftime.org/team/136056)  
-                **添加日历** : https://ctftime.org/event/2539.ics  
                 
     <!-- 赛事内容部分_结束 -->
 </div>
