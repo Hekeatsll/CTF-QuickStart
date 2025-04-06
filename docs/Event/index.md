@@ -383,6 +383,15 @@ hide:
                 **赛事主办** : IIT JAMMU (https://ctftime.org/team/375458)  
                 **添加日历** : https://ctftime.org/event/2745.ics  
                 
+            ??? Quote "[CPCTF 2025](https://cpctf.space/)"  
+                [![](https://ctftime.org/media/events/cpctf_logo.png){ width="200" align=left }](https://cpctf.space/)  
+                **比赛名称** : [CPCTF 2025](https://cpctf.space/)  
+                **比赛形式** : Jeopardy  
+                **比赛时间** : 2025-04-18 19:00:00 - 2025-04-20 19:00:00 UTC+8  
+                **比赛权重** : 0.00  
+                **赛事主办** : traP (https://ctftime.org/team/62510)  
+                **添加日历** : https://ctftime.org/event/2554.ics  
+                
             ??? Quote "[DawgCTF 2025](https://metactf.com/join/dawgctf25)"  
                 [![](https://ctftime.org/media/events/dawgsec_shield-ctftime_2.png){ width="200" align=left }](https://metactf.com/join/dawgctf25)  
                 **比赛名称** : [DawgCTF 2025](https://metactf.com/join/dawgctf25)  
@@ -409,15 +418,6 @@ hide:
                 **比赛权重** : 48.38  
                 **赛事主办** : SavedByTheShell (https://ctftime.org/team/78233)  
                 **添加日历** : https://ctftime.org/event/2653.ics  
-                
-            ??? Quote "[CPCTF 2025](https://cpctf.space/)"  
-                [![](https://ctftime.org/media/events/cpctf_logo.png){ width="200" align=left }](https://cpctf.space/)  
-                **比赛名称** : [CPCTF 2025](https://cpctf.space/)  
-                **比赛形式** : Jeopardy  
-                **比赛时间** : 2025-04-19 04:00:00 - 2025-04-21 04:00:00 UTC+8  
-                **比赛权重** : 0.00  
-                **赛事主办** : traP (https://ctftime.org/team/62510)  
-                **添加日历** : https://ctftime.org/event/2554.ics  
                 
             ??? Quote "[b01lers CTF 2025](https://b01lersc.tf/)"  
                 [![](https://ctftime.org/media/events/b01lers-griffen_2.png){ width="200" align=left }](https://b01lersc.tf/)  
@@ -844,13 +844,6 @@ hide:
                 
     === "*正在进行*"
         === "国内赛事"
-            ??? Quote "[HellCTF 2025](ctfplus.cn)"  
-                **比赛名称** : [HellCTF 2025](ctfplus.cn)  
-                **比赛类型** : 线上Jeopardy解题赛  
-                **报名时间** : 2025年04月03日 00:00 - 2025年04月04日 14:43  
-                **比赛时间** : 2025年04月04日 14:44 - 2025年04月06日 14:44  
-                **其他说明** : HellCTF 2025是一个公开赛，主办方为公开赛。比赛群为879334917。时候赚取你来生的财富了! 最高奖励1,000,000.000.000元，奖品设置包括每题一血解出者每人一份R.E.D.O.(Steam版本)，每题所有解出者中抽取两位获得大额冥币(可代烧)，所有参赛者中抽取两位获得纸扎大house(可代烧)。  
-                
             ??? Quote "[XYCTF 2025](xyctf.top)"  
                 **比赛名称** : [XYCTF 2025](xyctf.top)  
                 **比赛类型** : 线上Jeopardy解题赛  
@@ -913,6 +906,13 @@ hide:
                 
     === "*已经结束*"
         === "国内赛事"
+            ??? Quote "[HellCTF 2025](ctfplus.cn)"  
+                **比赛名称** : [HellCTF 2025](ctfplus.cn)  
+                **比赛类型** : 线上Jeopardy解题赛  
+                **报名时间** : 2025年04月03日 00:00 - 2025年04月04日 14:43  
+                **比赛时间** : 2025年04月04日 14:44 - 2025年04月06日 14:44  
+                **其他说明** : HellCTF 2025是一个公开赛，主办方为公开赛。比赛群为879334917。时候赚取你来生的财富了! 最高奖励1,000,000.000.000元，奖品设置包括每题一血解出者每人一份R.E.D.O.(Steam版本)，每题所有解出者中抽取两位获得大额冥币(可代烧)，所有参赛者中抽取两位获得纸扎大house(可代烧)。  
+                
             ??? Quote "[NCTF 2024](https://nctf.exp10it.cn/)"  
                 **比赛名称** : [NCTF 2024](https://nctf.exp10it.cn/)  
                 **比赛类型** : 线上Jeopardy解题赛  
