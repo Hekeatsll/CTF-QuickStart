@@ -1,17 +1,5 @@
 [
     {
-        "比赛名称": "Dreamhack Invitational 2025",
-        "比赛时间": "2025-04-08 08:00:00 - 2025-04-09 05:00:00 UTC+8",
-        "添加日历": "https://ctftime.org/event/2628.ics",
-        "比赛形式": "Jeopardy",
-        "比赛链接": "https://dreamhack.io/",
-        "比赛标志": "https://ctftime.org/media/events/e66fed5653581908ac8e93f82ad73cae.jpg",
-        "比赛权重": "0",
-        "赛事主办": "Dreamhack (https://ctftime.org/team/367894)",
-        "比赛ID": "1090",
-        "比赛状态": "oncoming"
-    },
-    {
         "比赛名称": "1753CTF 2025",
         "比赛时间": "2025-04-12 01:00:00 - 2025-04-13 01:00:00 UTC+8",
         "添加日历": "https://ctftime.org/event/2639.ics",
@@ -165,6 +153,18 @@
         "比赛权重": "53.00",
         "赛事主办": "HackingForSoju (https://ctftime.org/team/3208)",
         "比赛ID": "246",
+        "比赛状态": "oncoming"
+    },
+    {
+        "比赛名称": "CTF@CIT 2025",
+        "比赛时间": "2025-04-26 05:00:00 - 2025-04-28 03:00:00 UTC+8",
+        "添加日历": "https://ctftime.org/event/2759.ics",
+        "比赛形式": "Jeopardy",
+        "比赛链接": "https://ctf.cyber-cit.club/",
+        "比赛标志": "https://ctftime.org/media/events/CTF-CIT-ctftime_2.png",
+        "比赛权重": "24.57",
+        "赛事主办": "HACK@CIT (https://ctftime.org/team/287896)",
+        "比赛ID": "1109",
         "比赛状态": "oncoming"
     },
     {
@@ -564,6 +564,18 @@
         "比赛状态": "oncoming"
     },
     {
+        "比赛名称": "World Wide CTF 2025",
+        "比赛时间": "2025-07-26 20:00:00 - 2025-07-28 20:00:00 UTC+8",
+        "添加日历": "https://ctftime.org/event/2753.ics",
+        "比赛形式": "Jeopardy",
+        "比赛链接": "https://wwctf.com/",
+        "比赛标志": "https://ctftime.org/media/events/logobg_1.png",
+        "比赛权重": "24.48",
+        "赛事主办": "🐧‎ (https://ctftime.org/team/283853)",
+        "比赛ID": "1208",
+        "比赛状态": "oncoming"
+    },
+    {
         "比赛名称": "GaianSpace CTF 2025",
         "比赛时间": "2025-08-08 22:00:00 - 2025-08-12 22:00:00 UTC+8",
         "添加日历": "https://ctftime.org/event/2732.ics",
@@ -717,6 +729,18 @@
         "比赛权重": "0",
         "赛事主办": "NFITS (https://ctftime.org/team/360674)",
         "比赛ID": "1200",
+        "比赛状态": "nowrunning"
+    },
+    {
+        "比赛名称": "Dreamhack Invitational 2025",
+        "比赛时间": "2025-04-08 08:00:00 - 2025-04-09 05:00:00 UTC+8",
+        "添加日历": "https://ctftime.org/event/2628.ics",
+        "比赛形式": "Jeopardy",
+        "比赛链接": "https://dreamhack.io/",
+        "比赛标志": "https://ctftime.org/media/events/e66fed5653581908ac8e93f82ad73cae.jpg",
+        "比赛权重": "0",
+        "赛事主办": "Dreamhack (https://ctftime.org/team/367894)",
+        "比赛ID": "1090",
         "比赛状态": "nowrunning"
     },
     {
