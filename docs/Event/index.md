@@ -370,18 +370,18 @@ hide:
                 **赛事主办** : Cyber@UC (https://ctftime.org/team/87727)  
                 **添加日历** : https://ctftime.org/event/3046.ics  
                 
-            ??? Quote "[UniVsThreats 26 Quals CTF]()"  
-                [![](https://ctftime.org/media/events/b5d87319c0fb32c513deeef45488af6a.jpg){ width="200" align=left }]()  
-                **比赛名称** : [UniVsThreats 26 Quals CTF]()  
+            ??? Quote "[UniVsThreats 26 Quals CTF](https://cybersec.uvt.ro/events/UniVsThreats26Quals/)"  
+                [![](https://ctftime.org/media/events/UniVsThreats26_Final_No_Sponsors_1.jpg){ width="200" align=left }](https://cybersec.uvt.ro/events/UniVsThreats26Quals/)  
+                **比赛名称** : [UniVsThreats 26 Quals CTF](https://cybersec.uvt.ro/events/UniVsThreats26Quals/)  
                 **比赛形式** : Jeopardy  
                 **比赛时间** : 2026-02-27 16:00:00 - 2026-02-28 16:00:00 UTC+8  
                 **比赛权重** : 18.35  
                 **赛事主办** : UVT-CTF (https://ctftime.org/team/214520)  
                 **添加日历** : https://ctftime.org/event/3092.ics  
                 
-            ??? Quote "[EHAX CTF 2k26](https://ctf.ehax.in/)"  
+            ??? Quote "[EHAX CTF 2026](https://ctf.ehax.in/)"  
                 [![](https://ctftime.org/media/events/EHAX_CTF_FINAL_LOGO_1.png){ width="200" align=left }](https://ctf.ehax.in/)  
-                **比赛名称** : [EHAX CTF 2k26](https://ctf.ehax.in/)  
+                **比赛名称** : [EHAX CTF 2026](https://ctf.ehax.in/)  
                 **比赛形式** : Jeopardy  
                 **比赛时间** : 2026-02-28 02:30:00 - 2026-03-01 14:30:00 UTC+8  
                 **比赛权重** : 22.67  
