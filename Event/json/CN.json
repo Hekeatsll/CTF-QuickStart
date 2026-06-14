@@ -1,0 +1,18 @@
+{
+    "success": true,
+    "data": {
+        "result": [
+            {
+                "name": "NepCTF 2026",
+                "link": "/isPrepare",
+                "comp_time_start": "2026年07月10日 19:00",
+                "comp_time_end": "2026年07月12日 19:00",
+                "detail": "筹备中"
+            }
+        ],
+        "total": 1,
+        "page": 1,
+        "size": 20
+    },
+    "msg": ""
+}
