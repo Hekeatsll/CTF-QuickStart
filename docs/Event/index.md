@@ -325,9 +325,9 @@ hide:
                 **赛事主办** : kBxAc (https://ctftime.org/team/358282)  
                 **添加日历** : https://ctftime.org/event/3456.ics  
                 
-            ??? Quote "[isfcr{ctf} 2026 Quals](https://isfcr.xyz/)"  
-                [![](https://ctftime.org/media/events/v7_1.png){ width="200" align=left }](https://isfcr.xyz/)  
-                **比赛名称** : [isfcr{ctf} 2026 Quals](https://isfcr.xyz/)  
+            ??? Quote "[Cryovault 2026 Quals](https://isfcr.xyz/)"  
+                [![](https://ctftime.org/media/events/v7_1.jpg){ width="200" align=left }](https://isfcr.xyz/)  
+                **比赛名称** : [Cryovault 2026 Quals](https://isfcr.xyz/)  
                 **比赛形式** : Jeopardy  
                 **比赛时间** : 2026-10-10 12:30:00 - 2026-10-11 12:30:00 UTC+8  
                 **比赛权重** : 0.00  
@@ -433,9 +433,9 @@ hide:
                 **赛事主办** : FluxFingers (https://ctftime.org/team/551)  
                 **添加日历** : https://ctftime.org/event/3207.ics  
                 
-            ??? Quote "[isfcr{ctf} 2026 Finals](https://isfcr.xyz/)"  
-                [![](https://ctftime.org/media/events/v7_2.png){ width="200" align=left }](https://isfcr.xyz/)  
-                **比赛名称** : [isfcr{ctf} 2026 Finals](https://isfcr.xyz/)  
+            ??? Quote "[Cryovault 2026 Finals](https://isfcr.xyz/)"  
+                [![](https://ctftime.org/media/events/v7_2.jpg){ width="200" align=left }](https://isfcr.xyz/)  
+                **比赛名称** : [Cryovault 2026 Finals](https://isfcr.xyz/)  
                 **比赛形式** : Jeopardy  
                 **比赛时间** : 2026-10-24 11:30:00 - 2026-10-25 14:30:00 UTC+8  
                 **比赛权重** : 0.00  
@@ -698,6 +698,10 @@ hide:
                 **赛事主办** : UWSP Pointers (https://ctftime.org/team/231536)  
                 **添加日历** : https://ctftime.org/event/3020.ics  
                 
+    === "*已经结束*"
+        === "国内赛事"
+    
+        === "国外赛事"
             ??? Quote "[AltayCTF 2026](https://university.altayctf.ru/2026)"  
                 [![](https://ctftime.org/media/events/0_2_1.png){ width="200" align=left }](https://university.altayctf.ru/2026)  
                 **比赛名称** : [AltayCTF 2026](https://university.altayctf.ru/2026)  
@@ -707,10 +711,6 @@ hide:
                 **赛事主办** : SharLike (https://ctftime.org/team/16172)  
                 **添加日历** : https://ctftime.org/event/3432.ics  
                 
-    === "*已经结束*"
-        === "国内赛事"
-    
-        === "国外赛事"
             ??? Quote "[CDCTF 2026](https://crimsondefense.org/cdctf/)"  
                 [![](https://ctftime.org/media/events/cdctf_logo_square_1.png){ width="200" align=left }](https://crimsondefense.org/cdctf/)  
                 **比赛名称** : [CDCTF 2026](https://crimsondefense.org/cdctf/)  
@@ -797,7 +797,7 @@ hide:
                 **比赛名称** : [BCS CTF 2026](https://ctf.bcsictfest.com/)  
                 **比赛形式** : Jeopardy  
                 **比赛时间** : 2026-09-25 22:00:00 - 2026-09-27 22:00:00 UTC+8  
-                **比赛权重** : 0  
+                **比赛权重** : 23.33  
                 **赛事主办** : bdhxgrp (https://ctftime.org/team/193805)  
                 **添加日历** : https://ctftime.org/event/3374.ics  
                 
@@ -1601,15 +1601,6 @@ hide:
                 **比赛权重** : 25.00  
                 **赛事主办** : KyteBytes (https://ctftime.org/team/424457)  
                 **添加日历** : https://ctftime.org/event/3309.ics  
-                
-            ??? Quote "[CyberSibir2026](https://masksafe.ru/cyberv/2026/ctf)"  
-                [![](https://ctftime.org/media/events/logoeye.jpg){ width="200" align=left }](https://masksafe.ru/cyberv/2026/ctf)  
-                **比赛名称** : [CyberSibir2026](https://masksafe.ru/cyberv/2026/ctf)  
-                **比赛形式** : Attack-Defense  
-                **比赛时间** : 2026-06-09 11:30:00 - 2026-06-09 20:30:00 UTC+8  
-                **比赛权重** : 0  
-                **赛事主办** : keva (https://ctftime.org/team/2980)  
-                **添加日历** : https://ctftime.org/event/3332.ics  
                 
     <!-- 赛事内容部分_结束 -->
 </div>
